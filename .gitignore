@@ -1,0 +1,19 @@
+#ignore thumbnails created by windows
+Thumbs.db
+
+
+#ignore the backup 'orig' files produced by kdiff
+*.orig
+
+#ignore the default config file so settings are not committed
+kidsafe-config.php
+
+#misc
+.DS_Store?
+.DS_Store
+ehthumbs.db
+_notes
+dwsync.xml
+.svn
+.hg
+!.gitignore
