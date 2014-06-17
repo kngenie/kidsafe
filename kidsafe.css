@@ -1,0 +1,33 @@
+#mainlogin {
+	clear:both;
+	background:#ccffee;
+}
+
+#adminaccess {
+	clear:both;
+}
+
+#allowsite {
+	background:#e0dbff;
+
+}
+
+#permituser {
+	float:left;
+	height: 100%;
+	background:#e6f9c9;
+}
+
+
+span.log-accept {
+	background: #33FFCC;
+}
+
+
+span.log-default {
+	background: 	#FFCC66;
+}
+
+span.log-reject {
+	background: #FF3333;
+}
